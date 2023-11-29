@@ -13,7 +13,7 @@ This repository follows the official SwiftUI Tutorials by Apple ([SwiftUI Tutori
 
 This repository will be a valuable resource for everyone who wants to learn SwiftUI. Enjoy the process of learning and growing together!
 
-(KOR)
+[KOR]<br>
 **SwiftUI Tutorials 레포에 오신 것을 환영합니다:)** <br>
 이 레포지토리는 애플의 공식 SwiftUI 튜토리얼([SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui))을 따르며, 튜토리얼의 각 섹션마다 별도의 브랜치를 생성하여 단계별 학습 과정을 기록합니다.
 
