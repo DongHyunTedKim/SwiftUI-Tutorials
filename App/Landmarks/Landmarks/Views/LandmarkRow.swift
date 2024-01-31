@@ -23,5 +23,8 @@ struct LandmarkRow: View {
 }
 
 #Preview {
-    LandmarkRow(lanemark: landmarks[0])
+    Group {
+        LandmarkRow(lanemark: landmarks[0])
+        LandmarkRow(lanemark: landmarks[1])
+    }
 }
