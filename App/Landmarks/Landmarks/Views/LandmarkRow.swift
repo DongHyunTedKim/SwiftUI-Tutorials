@@ -8,14 +8,14 @@
 import SwiftUI
 
 struct LandmarkRow: View {
-    var lanemark: Landmark
+    var landmark: Landmark
     
     var body: some View {
         HStack {
-            lanemark.image
+            landmark.image
                 .resizable()
                 .frame(width: 50, height: 50)
-            Text(lanemark.name)
+            Text(landmark.name)
             
             Spacer()
         }
@@ -24,7 +24,7 @@ struct LandmarkRow: View {
 
 #Preview {
     Group {
-        LandmarkRow(lanemark: landmarks[0])
-        LandmarkRow(lanemark: landmarks[1])
+        LandmarkRow(landmark: landmarks[0])
+        LandmarkRow(landmark: landmarks[1])
     }
 }
