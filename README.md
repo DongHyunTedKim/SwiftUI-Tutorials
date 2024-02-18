@@ -1,3 +1,8 @@
+##### 파일 경로
+Chapter 1. SwiftUI essentials - Creating and combining views 까지: SwiftUI-Tutorials/Landmarks/*: 
+Chapter 1. SwiftUI essentials - Building lists and navigation 부터: SwiftUI-Tutorials/App/Landmarks/*
+
+
 ### SwiftUI Tutorials: Step-by-Step Learning Repository
 
 **Welcome to the SwiftUI Tutorials Repository!** <br>
